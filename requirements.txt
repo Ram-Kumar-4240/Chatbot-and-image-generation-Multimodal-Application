@@ -1,1 +1,8 @@
-
+torch
+gradio
+groq
+deep_translator
+diffusers
+huggingface_hub
+safetensors
+transformers
